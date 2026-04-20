@@ -1,0 +1,2 @@
+# Beyond-VaR-Modeling-Post-Loss-Recovery-Duration-with-Survival-Analysis
+A risk analytics project that combines Value at Risk (VaR) and Survival Analysis to study both how much an asset can lose and how long it takes to recover after an abnormal loss event. The framework uses rolling VaR models to detect violations, then applies Kaplan–Meier curves and Cox models to analyze post-loss recovery duration and its drivers.
